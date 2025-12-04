@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: hsl(212, 45%, 89%);
+  background-color: hsl(212, 46%, 89%);
   min-height: 100vh;
 }
 
@@ -22,8 +22,8 @@ body {
 
 /* Card styling */
 .card {
-  background: white;
-  width: 320px;
+  background: #ffffff;
+  width: 310px;
   padding: 16px;
   border-radius: 20px;
   text-align: center;
